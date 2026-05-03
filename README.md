@@ -6,3 +6,7 @@ One interacts whe Game of Life by creating an initial configuration and observin
 There is no limit to the number of generations (computational resources permitting) or win condition.
 
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+
+
+This is just a small experiment to learn how to manage the conditions mathematically in a pygame app. The initial seed is determined by 
