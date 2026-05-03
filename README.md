@@ -9,4 +9,6 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 
 
-This is just a small experiment to learn how to manage the conditions mathematically in a pygame app. The initial seed is determined by 
+This is just a small experiment to learn how to manage the conditions mathematically in a pygame app. 
+
+The initial state is determined by the seed variable with the range of 0 to 1, which determines - as a ratio - how many of the squares will be populated.
